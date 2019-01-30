@@ -1,0 +1,7 @@
+06 = nombre de sommet utiliser , donner le nomber < 31 sinon ereur ! 
+110000
+111001
+011011
+000111
+001100
+011100
